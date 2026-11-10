@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram name="orlog-modelo-er" id="HhcG2wiLk-KwoZ_ggBF_">
-    <mxGraphModel dx="1765" dy="2395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1705" dy="2355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="L2ceI_W5F_kVP9wUsX6c-0" />
         <mxCell id="L2ceI_W5F_kVP9wUsX6c-1" parent="L2ceI_W5F_kVP9wUsX6c-0" />
@@ -207,19 +207,19 @@
         <mxCell id="VavaHPKIDdE6QRsRgY9c-9" parent="VavaHPKIDdE6QRsRgY9c-8" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="&lt;div&gt;#symbol_id&lt;/div&gt;&lt;div&gt;*tokens_stolen&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="160" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="VavaHPKIDdE6QRsRgY9c-12" edge="1" parent="L2ceI_W5F_kVP9wUsX6c-1" source="VavaHPKIDdE6QRsRgY9c-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="VavaHPKIDdE6QRsRgY9c-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="VavaHPKIDdE6QRsRgY9c-12" edge="1" parent="L2ceI_W5F_kVP9wUsX6c-1" source="VavaHPKIDdE6QRsRgY9c-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;" target="VavaHPKIDdE6QRsRgY9c-4">
+          <mxGeometry relative="1" x="0.0041" as="geometry" />
         </mxCell>
-        <mxCell id="VavaHPKIDdE6QRsRgY9c-13" edge="1" parent="L2ceI_W5F_kVP9wUsX6c-1" source="VavaHPKIDdE6QRsRgY9c-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="VavaHPKIDdE6QRsRgY9c-8">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="VavaHPKIDdE6QRsRgY9c-13" edge="1" parent="L2ceI_W5F_kVP9wUsX6c-1" source="VavaHPKIDdE6QRsRgY9c-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;" target="VavaHPKIDdE6QRsRgY9c-8">
+          <mxGeometry relative="1" x="0.0041" as="geometry" />
         </mxCell>
-        <mxCell id="VavaHPKIDdE6QRsRgY9c-14" edge="1" parent="L2ceI_W5F_kVP9wUsX6c-1" source="VavaHPKIDdE6QRsRgY9c-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="VavaHPKIDdE6QRsRgY9c-6">
+        <mxCell id="VavaHPKIDdE6QRsRgY9c-14" edge="1" parent="L2ceI_W5F_kVP9wUsX6c-1" source="VavaHPKIDdE6QRsRgY9c-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;" target="VavaHPKIDdE6QRsRgY9c-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VavaHPKIDdE6QRsRgY9c-10" parent="L2ceI_W5F_kVP9wUsX6c-1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.summing_junction;labelPerimeter=1;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="474" y="-199" as="geometry" />
         </mxCell>
-        <mxCell id="VavaHPKIDdE6QRsRgY9c-11" edge="1" parent="L2ceI_W5F_kVP9wUsX6c-1" source="L2ceI_W5F_kVP9wUsX6c-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="VavaHPKIDdE6QRsRgY9c-10">
+        <mxCell id="VavaHPKIDdE6QRsRgY9c-11" edge="1" parent="L2ceI_W5F_kVP9wUsX6c-1" source="L2ceI_W5F_kVP9wUsX6c-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;" target="VavaHPKIDdE6QRsRgY9c-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VavaHPKIDdE6QRsRgY9c-16" edge="1" parent="L2ceI_W5F_kVP9wUsX6c-1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
